@@ -10,7 +10,7 @@ In this Lab we're going to walk through how to create a Active Directory home La
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Oracle Virtual Box</b>
 
 <h2>Environments Used </h2>
 
